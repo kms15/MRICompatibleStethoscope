@@ -18,7 +18,7 @@ I hope to redraw this in FreeCAD and add the cleaned up mechanical
 drawings to this repository.
 
 Photos of the various steps in constructing the stethoscope can be found
-in [photolog.md](photolog.md).
+in [photolog.md](photolog.mkd).
 
 # License
 
