@@ -1,3 +1,14 @@
+# Initial sketch
+
+![](photos/IMG_20170525_213724.jpg){width=1024px}
+
+I created a quick sketch of the various parts on a 3x5" card to organize my
+thoughts. Several key dimensions were taken from my Littmann Cardiology III
+stethoscope, as I wanted to be able to reuse the earpieces and diaphragm from
+that stethoscope.
+
+# Making the ear tubes
+
 ![](photos/IMG_20170521_184921.jpg){width=1024px}
 
 ![](photos/IMG_20170521_185026.jpg){width=1024px}
@@ -53,6 +64,8 @@
 ![](photos/IMG_20170521_211335.jpg){width=1024px}
 
 ![](photos/IMG_20170521_212105.jpg){width=1024px}
+
+# Making the stethoscope head
 
 ![](photos/IMG_20170522_203807.jpg){width=1024px}
 
@@ -146,6 +159,18 @@
 
 ![](photos/IMG_20170523_193128.jpg){width=1024px}
 
+![](photos/IMG_20170524_121216.jpg){width=1024px}
+
+![](photos/IMG_20170524_121515.jpg){width=1024px}
+
+![](photos/IMG_20170524_121530.jpg){width=1024px}
+
+![](photos/IMG_20170524_121732.jpg){width=1024px}
+
+![](photos/IMG_20170524_122107.jpg){width=1024px}
+
+![](photos/IMG_20170524_122416.jpg){width=1024px}
+
 ![](photos/IMG_20170523_211408.jpg){width=1024px}
 
 ![](photos/IMG_20170523_211428.jpg){width=1024px}
@@ -158,17 +183,7 @@
 
 ![](photos/IMG_20170524_102757.jpg){width=1024px}
 
-![](photos/IMG_20170524_121216.jpg){width=1024px}
-
-![](photos/IMG_20170524_121515.jpg){width=1024px}
-
-![](photos/IMG_20170524_121530.jpg){width=1024px}
-
-![](photos/IMG_20170524_121732.jpg){width=1024px}
-
-![](photos/IMG_20170524_122107.jpg){width=1024px}
-
-![](photos/IMG_20170524_122416.jpg){width=1024px}
+## Making the hose barbs for the stethoscope head
 
 ![](photos/IMG_20170524_193351.jpg){width=1024px}
 
@@ -206,6 +221,8 @@
 
 ![](photos/IMG_20170524_214434.jpg){width=1024px}
 
+# Making the spring for the ear tubes
+
 ![](photos/IMG_20170524_221200.jpg){width=1024px}
 
 ![](photos/IMG_20170524_222353.jpg){width=1024px}
@@ -235,6 +252,8 @@
 ![](photos/IMG_20170524_232739.jpg){width=1024px}
 
 ![](photos/IMG_20170524_232752.jpg){width=1024px}
+
+# Making bands to hold the tubes together
 
 ![](photos/IMG_20170525_003930.jpg){width=1024px}
 
@@ -266,6 +285,8 @@
 
 ![](photos/IMG_20170525_190610.jpg){width=1024px}
 
+# Final assembly
+
 ![](photos/IMG_20170525_190645.jpg){width=1024px}
 
 ![](photos/IMG_20170525_190752.jpg){width=1024px}
@@ -275,6 +296,4 @@
 ![](photos/IMG_20170525_191726.jpg){width=1024px}
 
 ![](photos/IMG_20170525_191810.jpg){width=1024px}
-
-![](photos/IMG_20170525_213724.jpg){width=1024px}
 
