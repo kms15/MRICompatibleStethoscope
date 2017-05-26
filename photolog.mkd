@@ -1,6 +1,18 @@
+# Build log
+
+Below is a step by step description of building the stethoscope, with photos.
+The photos were taken with a phone camera and were not a major priority of
+this project, thus the photo quality is limited but should be good enough to
+see the key steps. 
+
+This document is not intended to teach basic machining skills. Multiple people
+each week come to our local ED with hand injuries and finger amputations from
+tools like these. Make sure you are familiar with the safe operation of these
+tools before using them.
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Contents**
+
 
 - [Initial sketch](#initial-sketch)
 - [Making the ear tubes](#making-the-ear-tubes)
@@ -17,7 +29,7 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-# Initial sketch
+## Initial sketch
 
 ![](photos/IMG_20170525_213724.jpg)
 
@@ -26,7 +38,7 @@ thoughts. Several key dimensions were taken from my Littmann Cardiology III
 stethoscope, as I wanted to be able to reuse the earpieces and diaphragm from
 that stethoscope.
 
-# Making the ear tubes
+## Making the ear tubes
 
 ![](photos/IMG_20170521_184921.jpg)
 
@@ -45,10 +57,10 @@ saw.
 
 ![](photos/IMG_20170521_185719.jpg)
 
-After a quick facing pass with the lathe and a little beveling of the inner edge,
+After a quick facing pass with the lathe and a little chamfering of the inner edge,
 the end looks much cleaner.
 
-## Making the barb for the ear piece.
+### Making the barb for the ear piece.
 
 ![](photos/IMG_20170521_190854.jpg)
 
@@ -69,7 +81,7 @@ We then cut the first groove between the barbs...
 
 ![](photos/IMG_20170521_193210.jpg)
 
-Theres still a sharp edge at the tip, so we bevel that.
+There is still a sharp edge at the tip, so we chamfer that.
 
 ![](photos/IMG_20170521_193321.jpg)
 
@@ -77,7 +89,7 @@ Now it's a tube with a barb at the end; a good start.
 
 ![](photos/IMG_20170521_193710.jpg)
 
-## Adding the curve
+### Adding the curve
 
 Here is the second tube at this stage next to the finished first tube, showing
 the curve we want to create in our tube.
@@ -133,7 +145,7 @@ We now have two complete ear tubes.
 
 A quick test shows that they fit the silicone tubing and ear pieces well.
 
-# Making the stethoscope head
+## Making the stethoscope head
 
 ![](photos/IMG_20170522_203807.jpg)
 
@@ -143,7 +155,7 @@ First we mark and cut off a piece of aluminum bar stock using the band saw.
 
 Measure twice, cut once.
 
-## Machining the front of the stethoscope head
+### Machining the front of the stethoscope head
 
 ![](photos/IMG_20170522_205814.jpg)
 
@@ -220,7 +232,7 @@ We then use a countersink bit to get rid of the sharp edges.
 
 It's now starting to look like the front of a stethoscope.
 
-## Machining the back of the stethoscope head
+### Machining the back of the stethoscope head
 
 ![](photos/IMG_20170523_125146.jpg)
 
@@ -294,11 +306,11 @@ concavity for a fingertip at the back of the stethoscope head.
 
 ![](photos/IMG_20170523_160229.jpg)
 
-Tilting the table the other way allows us to create a large bevel, and then
-a few careful small cuts round out the corners of the bevel and the shoulder
+Tilting the table the other way allows us to create a large chamfer, and then
+a few careful small cuts round out the corners of the chamfer and the shoulder
 below.
 
-## Drilling the holes for the barbs for the tubing
+### Drilling the holes for the barbs for the tubing
 
 ![](photos/IMG_20170523_182521.jpg)
 
@@ -352,10 +364,10 @@ completed piece.
 ![](photos/IMG_20170524_102622.jpg)
 
 Here you can see where all three holes meet in the center.  The light is
-shining in from the second hole, and the perpendicular wall of the the hole in
+shining in from the second hole, and the perpendicular wall of the hole in
 the front of the scope is also visible through the hole.
 
-## Making the hose barbs for the stethoscope head
+### Making the hose barbs for the stethoscope head
 
 ![](photos/IMG_20170524_193351.jpg)
 
@@ -393,7 +405,7 @@ the front of the scope is also visible through the hole.
 
 ![](photos/IMG_20170524_214434.jpg)
 
-# Making the spring for the ear tubes
+## Making the spring for the ear tubes
 
 ![](photos/IMG_20170524_221200.jpg)
 
@@ -425,7 +437,7 @@ the front of the scope is also visible through the hole.
 
 ![](photos/IMG_20170524_232752.jpg)
 
-# Making bands to hold the tubes together
+## Making bands to hold the tubes together
 
 ![](photos/IMG_20170525_003930.jpg)
 
@@ -457,7 +469,7 @@ the front of the scope is also visible through the hole.
 
 ![](photos/IMG_20170525_190610.jpg)
 
-# Final assembly
+## Final assembly
 
 ![](photos/IMG_20170525_190645.jpg)
 
