@@ -1,6 +1,6 @@
 # Initial sketch
 
-![](photos/IMG_20170525_213724.jpg){width=1024px}
+![](photos/IMG_20170525_213724.jpg)
 
 I created a quick sketch of the various parts on a 3x5" card to organize my
 thoughts. Several key dimensions were taken from my Littmann Cardiology III
@@ -9,291 +9,444 @@ that stethoscope.
 
 # Making the ear tubes
 
-![](photos/IMG_20170521_184921.jpg){width=1024px}
+![](photos/IMG_20170521_184921.jpg)
 
-![](photos/IMG_20170521_185026.jpg){width=1024px}
+The tubing was first marked and then cut to the appropriate length using a
+band saw.
 
-![](photos/IMG_20170521_185249.jpg){width=1024px}
+![](photos/IMG_20170521_185026.jpg)
 
-![](photos/IMG_20170521_185258.jpg){width=1024px}
+Although the length does not need to be precise, it never hurts to check your
+work.
 
-![](photos/IMG_20170521_185719.jpg){width=1024px}
+![](photos/IMG_20170521_185249.jpg)
 
-![](photos/IMG_20170521_190854.jpg){width=1024px}
+The tube was then chucked up in a lathe.  Note the rough end left by the band
+saw.
 
-![](photos/IMG_20170521_190902.jpg){width=1024px}
+![](photos/IMG_20170521_185719.jpg)
 
-![](photos/IMG_20170521_191719.jpg){width=1024px}
+After a quick facing pass with the lathe and a little beveling of the inner edge,
+the end looks much cleaner.
 
-![](photos/IMG_20170521_191724.jpg){width=1024px}
+## Making the barb for the ear piece.
 
-![](photos/IMG_20170521_192338.jpg){width=1024px}
+![](photos/IMG_20170521_190854.jpg)
 
-![](photos/IMG_20170521_192403.jpg){width=1024px}
+Next we make the barbs designed to hold the Littmann earpieces. First we
+turn the diameter down to the width of the ridges on the barbs.
 
-![](photos/IMG_20170521_192951.jpg){width=1024px}
+![](photos/IMG_20170521_191724.jpg)
 
-![](photos/IMG_20170521_193210.jpg){width=1024px}
+We then cut the first groove between the barbs...
 
-![](photos/IMG_20170521_193321.jpg){width=1024px}
+![](photos/IMG_20170521_192403.jpg)
 
-![](photos/IMG_20170521_193710.jpg){width=1024px}
+...then the second...
 
-![](photos/IMG_20170521_194735.jpg){width=1024px}
+![](photos/IMG_20170521_192951.jpg)
 
-![](photos/IMG_20170521_195631.jpg){width=1024px}
+...and then the third.
 
-![](photos/IMG_20170521_195647.jpg){width=1024px}
+![](photos/IMG_20170521_193210.jpg)
 
-![](photos/IMG_20170521_200022.jpg){width=1024px}
+Theres still a sharp edge at the tip, so we bevel that.
 
-![](photos/IMG_20170521_204209.jpg){width=1024px}
+![](photos/IMG_20170521_193321.jpg)
 
-![](photos/IMG_20170521_205758.jpg){width=1024px}
+Now it's a tube with a barb at the end; a good start.
 
-![](photos/IMG_20170521_205834.jpg){width=1024px}
+![](photos/IMG_20170521_193710.jpg)
 
-![](photos/IMG_20170521_205843.jpg){width=1024px}
+## Adding the curve
 
-![](photos/IMG_20170521_210515.jpg){width=1024px}
+Here is the second tube at this stage next to the finished first tube, showing
+the curve we want to create in our tube.
 
-![](photos/IMG_20170521_210656.jpg){width=1024px}
+![](photos/IMG_20170521_194735.jpg)
 
-![](photos/IMG_20170521_211329.jpg){width=1024px}
+First, we use the slip rolls to create a gradual curve.
 
-![](photos/IMG_20170521_211335.jpg){width=1024px}
+![](photos/IMG_20170521_195647.jpg)
 
-![](photos/IMG_20170521_212105.jpg){width=1024px}
+Here is the second tube after this gradual curve shown next to the
+finished first tube; you can see how this gradual curve matches the curve in
+the lower part of the first ear tube..
+
+![](photos/IMG_20170521_200022.jpg)
+
+Don't let the barb get caught in the slip roll! Because the tubing becomes much
+thinner at the barb, the stress was concentrated at the transition between the
+two diameters and (at least in this case) sheared the barb off of the end of
+the tube.
+
+![](photos/IMG_20170521_204209.jpg)
+
+The second tube had to be scrapped and a third length of tubing was
+cut and had a barb turned on its end.
+
+![](photos/IMG_20170521_205843.jpg)
+
+Now the slip rolls were used again to create the tighter curve at the upper
+part of the tube.
+
+![](photos/IMG_20170521_205758.jpg)
+
+A closeup of the same. Notice the long chips being cut from the side of the
+tube by the edges of the groove in the slip rolls, which is slightly narrower
+than the diameter of the tube.
+
+![](photos/IMG_20170521_210515.jpg)
+
+The two tubes aren't quite mirror images, but they are close enough to be
+usable.
+
+![](photos/IMG_20170521_210656.jpg)
+
+The tube still has gray mill scale on it, so we polish it with the belt
+sander.
+
+![](photos/IMG_20170521_211335.jpg)
+
+We now have two complete ear tubes.
+
+![](photos/IMG_20170521_212105.jpg)
+
+A quick test shows that they fit the silicone tubing and ear pieces well.
 
 # Making the stethoscope head
 
-![](photos/IMG_20170522_203807.jpg){width=1024px}
+![](photos/IMG_20170522_203807.jpg)
 
-![](photos/IMG_20170522_203819.jpg){width=1024px}
+First we mark and cut off a piece of aluminum bar stock using the band saw.
 
-![](photos/IMG_20170522_204029.jpg){width=1024px}
+![](photos/IMG_20170522_203819.jpg)
 
-![](photos/IMG_20170522_205814.jpg){width=1024px}
+Measure twice, cut once.
 
-![](photos/IMG_20170522_210849.jpg){width=1024px}
+## Machining the front of the stethoscope head
 
-![](photos/IMG_20170522_212705.jpg){width=1024px}
+![](photos/IMG_20170522_205814.jpg)
 
-![](photos/IMG_20170522_214845.jpg){width=1024px}
+We next mount the piece in a four jaw chuck...
 
-![](photos/IMG_20170522_220910.jpg){width=1024px}
+![](photos/IMG_20170522_210849.jpg)
 
-![](photos/IMG_20170522_220922.jpg){width=1024px}
+...mount the chuck in the lathe...
 
-![](photos/IMG_20170522_221232.jpg){width=1024px}
+![](photos/IMG_20170522_212705.jpg)
 
-![](photos/IMG_20170522_221239.jpg){width=1024px}
+...and slowly cut away the corners...
 
-![](photos/IMG_20170522_233032.jpg){width=1024px}
+![](photos/IMG_20170522_214845.jpg)
 
-![](photos/IMG_20170523_003509.jpg){width=1024px}
+...until we have something round.  Note that we can't get at the corners on
+the back yet because the jaws of the chuck are in the way.
 
-![](photos/IMG_20170523_003522.jpg){width=1024px}
+This was a slow process; there was a lot of metal to remove with interrupted
+cuts, and given the size of the piece relative to my lathe it was safest to do
+light cuts at a low speed.  In retrospect, it would have been much
+faster to scribe a circle on the bar stock and use the band saw to cut away
+the corners before putting it on the lathe.
 
-![](photos/IMG_20170523_003551.jpg){width=1024px}
+![](photos/IMG_20170522_220910.jpg)
 
-![](photos/IMG_20170523_005448.jpg){width=1024px}
+We then continue to turn it down to a smaller starting diameter.  Note that
+the front face still had mill scale on it.
 
-![](photos/IMG_20170523_005458.jpg){width=1024px}
+![](photos/IMG_20170522_221239.jpg)
 
-![](photos/IMG_20170523_012345.jpg){width=1024px}
+A facing operation gives us a clean front face to work from.
 
-![](photos/IMG_20170523_013952.jpg){width=1024px}
+![](photos/IMG_20170522_233032.jpg)
 
-![](photos/IMG_20170523_014833.jpg){width=1024px}
+Next we cut out the valleys in the front face to leave the ridges that are
+needed for the pressure sensitivity of the Littmann diaphragm we are using.
 
-![](photos/IMG_20170523_014921.jpg){width=1024px}
+![](photos/IMG_20170523_003522.jpg)
 
-![](photos/IMG_20170523_015028.jpg){width=1024px}
+We then create the lip to hold the diaphragm in place.
 
-![](photos/IMG_20170523_125146.jpg){width=1024px}
+![](photos/IMG_20170523_003509.jpg)
 
-![](photos/IMG_20170523_125414.jpg){width=1024px}
+A quick test of the Littmann diaphragm confirms that it fits.
 
-![](photos/IMG_20170523_125741.jpg){width=1024px}
+![](photos/IMG_20170523_005448.jpg)
 
-![](photos/IMG_20170523_130245.jpg){width=1024px}
+We want the center to be slightly concave, so we rotate the headstock to create
+a 5 degree cut.
 
-![](photos/IMG_20170523_131308.jpg){width=1024px}
+![](photos/IMG_20170523_005458.jpg)
 
-![](photos/IMG_20170523_132920.jpg){width=1024px}
+Closeup showing the headstock at 85 degrees.
 
-![](photos/IMG_20170523_133902.jpg){width=1024px}
+![](photos/IMG_20170523_012345.jpg)
 
-![](photos/IMG_20170523_134117.jpg){width=1024px}
+Next we use a countersink drill to start the hole in the center of of the
+stethoscope head.  (The countersink drill is shorter and stiffer and thus
+provides a more accurate start for the hole than a longer jobber drill bit.)
 
-![](photos/IMG_20170523_134337.jpg){width=1024px}
+![](photos/IMG_20170523_013952.jpg)
 
-![](photos/IMG_20170523_135713.jpg){width=1024px}
+We next need to drill the hole to depth, but do not want to overshoot and
+go all the way through.  A 1 mm thick sheet of aluminum placed across the
+face of the stethoscope provides a reference point from which to measure
+depth.
 
-![](photos/IMG_20170523_135724.jpg){width=1024px}
+![](photos/IMG_20170523_014833.jpg)
 
-![](photos/IMG_20170523_140455.jpg){width=1024px}
+We then use a countersink bit to get rid of the sharp edges.
 
-![](photos/IMG_20170523_145245.jpg){width=1024px}
+![](photos/IMG_20170523_015028.jpg)
 
-![](photos/IMG_20170523_145313.jpg){width=1024px}
+It's now starting to look like the front of a stethoscope.
 
-![](photos/IMG_20170523_150916.jpg){width=1024px}
+## Machining the back of the stethoscope head
 
-![](photos/IMG_20170523_152754.jpg){width=1024px}
+![](photos/IMG_20170523_125146.jpg)
 
-![](photos/IMG_20170523_153351.jpg){width=1024px}
+This time I was a little wiser and decided to cut off the corners with the
+band saw rather than slowly reducing them to chips using interrupted cuts on
+the lathe.
 
-![](photos/IMG_20170523_154409.jpg){width=1024px}
+![](photos/IMG_20170523_125414.jpg)
 
-![](photos/IMG_20170523_160229.jpg){width=1024px}
+Note the hand position - the hand is draped over the edge of the table to
+stabilize it, and the fingers can not reach the band saw blade.  It's easy
+to loose fingers to a tool like this, so it's worth the extra caution.
+It's also a bad idea to try to multitask while using power tools, e.g. the
+tools were turned off before taking any of these pictures.
 
-![](photos/IMG_20170523_160236.jpg){width=1024px}
+![](photos/IMG_20170523_125741.jpg)
 
-![](photos/IMG_20170523_182521.jpg){width=1024px}
+The corners are now cut off, which takes much less energy and time than
+reducing them to chips (at least with my lathe).
 
-![](photos/IMG_20170523_184419.jpg){width=1024px}
+![](photos/IMG_20170523_130245.jpg)
 
-![](photos/IMG_20170523_191733.jpg){width=1024px}
+We now mount the piece in a four jaw chuck.
 
-![](photos/IMG_20170523_193128.jpg){width=1024px}
+![](photos/IMG_20170523_132920.jpg)
 
-![](photos/IMG_20170524_121216.jpg){width=1024px}
+We want to use the same axis of rotation that we used for the front of the
+head, so we use an indicator dial and carefully adjust the jaws of
+the chuck until it is very close to being centered (in this case within
+10 micrometers).
 
-![](photos/IMG_20170524_121515.jpg){width=1024px}
+![](photos/IMG_20170523_133902.jpg)
 
-![](photos/IMG_20170524_121530.jpg){width=1024px}
+Going from the rough circle from the band saw to a smooth circle was much
+indeed much faster that cutting away the corners on the front.
 
-![](photos/IMG_20170524_121732.jpg){width=1024px}
+![](photos/IMG_20170523_135713.jpg)
 
-![](photos/IMG_20170524_122107.jpg){width=1024px}
+We are then able to turn it down to one continuous cylinder above the lip.
 
-![](photos/IMG_20170524_122416.jpg){width=1024px}
+![](photos/IMG_20170523_135724.jpg)
 
-![](photos/IMG_20170523_211408.jpg){width=1024px}
+This face is neither square nor clean, however...
 
-![](photos/IMG_20170523_211428.jpg){width=1024px}
+![](photos/IMG_20170523_140455.jpg)
 
-![](photos/IMG_20170523_211437.jpg){width=1024px}
+...so we do a facing cut to clean it up.
 
-![](photos/IMG_20170524_102525.jpg){width=1024px}
+![](photos/IMG_20170523_145313.jpg)
 
-![](photos/IMG_20170524_102622.jpg){width=1024px}
+We then continue to turn it down to the 25mm knob on the back of the
+stethoscope head.
 
-![](photos/IMG_20170524_102757.jpg){width=1024px}
+![](photos/IMG_20170523_150916.jpg)
+
+Again, tilting the spindle allows us to set up an angled cut for the shoulder.
+A quick check shows that we don't have much space to work in in front of the
+jaws of the chuck.
+
+![](photos/IMG_20170523_152754.jpg)
+
+Here is the head after this cut. Note how close the tool bit came to the jaws!
+For this part I stopped the spindle before bringing the cutter closer for each
+cut, and spun the chuck to make sure all the jaws cleared before starting the
+spindle again.
+
+![](photos/IMG_20170523_153351.jpg)
+
+Tilting the spindle the other way provides the angle needed to create a slight
+concavity for a fingertip at the back of the stethoscope head.
+
+![](photos/IMG_20170523_160229.jpg)
+
+Tilting the table the other way allows us to create a large bevel, and then
+a few careful small cuts round out the corners of the bevel and the shoulder
+below.
+
+## Drilling the holes for the barbs for the tubing
+
+![](photos/IMG_20170523_182521.jpg)
+
+First we need to tram our mill to be square relative to the x-axis...
+
+![](photos/IMG_20170523_184419.jpg)
+
+...and the y-axis.
+
+![](photos/IMG_20170523_191733.jpg)
+
+We then remove the chuck from the lathe and put it on a rotary table oriented
+horizontally on the mill (without removing the part, so that it remains
+centered). A quick check with a dial indicator confirms that it is still
+centered (within tolerance).
+
+![](photos/IMG_20170523_193128.jpg)
+
+We then use a center finder to precisely locate the x and y coordinates of the
+part within the milling machine.
+
+![](photos/IMG_20170524_121216.jpg)
+
+We use a milling bit to cut a flat on the side of the head for the tubing.
+(Full disclosure: this and the next four photos were staged after the fact with
+the finished part, since I did not take photos while doing these steps.)
+
+![](photos/IMG_20170524_121530.jpg)
+
+A countersink drill is used to start a hole in the newly created face...
+
+![](photos/IMG_20170524_121732.jpg)
+
+...which is completed with a jobber drill bit.
+
+![](photos/IMG_20170524_122107.jpg)
+
+An M6 tap is then used to thread the hole.
+
+![](photos/IMG_20170524_122416.jpg)
+
+Because I did not have an M6 bottom tap on hand the lower threads were not
+fully cut; to compensate for this an M6 bolt was used to widen the threads.
+
+![](photos/IMG_20170523_211428.jpg)
+
+The rotary table was then used to rotate the piece 45 degrees, and a second
+hole was drilled and tapped in the same manner. This photo shows the
+completed piece.
+
+![](photos/IMG_20170524_102622.jpg)
+
+Here you can see where all three holes meet in the center.  The light is
+shining in from the second hole, and the perpendicular wall of the the hole in
+the front of the scope is also visible through the hole.
 
 ## Making the hose barbs for the stethoscope head
 
-![](photos/IMG_20170524_193351.jpg){width=1024px}
+![](photos/IMG_20170524_193351.jpg)
 
-![](photos/IMG_20170524_194505.jpg){width=1024px}
+![](photos/IMG_20170524_194505.jpg)
 
-![](photos/IMG_20170524_194657.jpg){width=1024px}
+![](photos/IMG_20170524_194657.jpg)
 
-![](photos/IMG_20170524_195619.jpg){width=1024px}
+![](photos/IMG_20170524_195619.jpg)
 
-![](photos/IMG_20170524_200207.jpg){width=1024px}
+![](photos/IMG_20170524_200207.jpg)
 
-![](photos/IMG_20170524_200736.jpg){width=1024px}
+![](photos/IMG_20170524_200736.jpg)
 
-![](photos/IMG_20170524_201815.jpg){width=1024px}
+![](photos/IMG_20170524_201815.jpg)
 
-![](photos/IMG_20170524_202908.jpg){width=1024px}
+![](photos/IMG_20170524_202908.jpg)
 
-![](photos/IMG_20170524_203045.jpg){width=1024px}
+![](photos/IMG_20170524_203045.jpg)
 
-![](photos/IMG_20170524_203235.jpg){width=1024px}
+![](photos/IMG_20170524_203235.jpg)
 
-![](photos/IMG_20170524_203714.jpg){width=1024px}
+![](photos/IMG_20170524_203714.jpg)
 
-![](photos/IMG_20170524_203837.jpg){width=1024px}
+![](photos/IMG_20170524_203837.jpg)
 
-![](photos/IMG_20170524_204116.jpg){width=1024px}
+![](photos/IMG_20170524_204116.jpg)
 
-![](photos/IMG_20170524_204213.jpg){width=1024px}
+![](photos/IMG_20170524_204213.jpg)
 
-![](photos/IMG_20170524_213434.jpg){width=1024px}
+![](photos/IMG_20170524_213434.jpg)
 
-![](photos/IMG_20170524_214224.jpg){width=1024px}
+![](photos/IMG_20170524_214224.jpg)
 
-![](photos/IMG_20170524_214244.jpg){width=1024px}
+![](photos/IMG_20170524_214244.jpg)
 
-![](photos/IMG_20170524_214434.jpg){width=1024px}
+![](photos/IMG_20170524_214434.jpg)
 
 # Making the spring for the ear tubes
 
-![](photos/IMG_20170524_221200.jpg){width=1024px}
+![](photos/IMG_20170524_221200.jpg)
 
-![](photos/IMG_20170524_222353.jpg){width=1024px}
+![](photos/IMG_20170524_222353.jpg)
 
-![](photos/IMG_20170524_222548.jpg){width=1024px}
+![](photos/IMG_20170524_222548.jpg)
 
-![](photos/IMG_20170524_223334.jpg){width=1024px}
+![](photos/IMG_20170524_223334.jpg)
 
-![](photos/IMG_20170524_224805.jpg){width=1024px}
+![](photos/IMG_20170524_224805.jpg)
 
-![](photos/IMG_20170524_224914.jpg){width=1024px}
+![](photos/IMG_20170524_224914.jpg)
 
-![](photos/IMG_20170524_225122.jpg){width=1024px}
+![](photos/IMG_20170524_225122.jpg)
 
-![](photos/IMG_20170524_225641.jpg){width=1024px}
+![](photos/IMG_20170524_225641.jpg)
 
-![](photos/IMG_20170524_230444.jpg){width=1024px}
+![](photos/IMG_20170524_230444.jpg)
 
-![](photos/IMG_20170524_230610.jpg){width=1024px}
+![](photos/IMG_20170524_230610.jpg)
 
-![](photos/IMG_20170524_230619.jpg){width=1024px}
+![](photos/IMG_20170524_230619.jpg)
 
-![](photos/IMG_20170524_231533.jpg){width=1024px}
+![](photos/IMG_20170524_231533.jpg)
 
-![](photos/IMG_20170524_231736.jpg){width=1024px}
+![](photos/IMG_20170524_231736.jpg)
 
-![](photos/IMG_20170524_232739.jpg){width=1024px}
+![](photos/IMG_20170524_232739.jpg)
 
-![](photos/IMG_20170524_232752.jpg){width=1024px}
+![](photos/IMG_20170524_232752.jpg)
 
 # Making bands to hold the tubes together
 
-![](photos/IMG_20170525_003930.jpg){width=1024px}
+![](photos/IMG_20170525_003930.jpg)
 
-![](photos/IMG_20170525_004001.jpg){width=1024px}
+![](photos/IMG_20170525_004001.jpg)
 
-![](photos/IMG_20170525_004008.jpg){width=1024px}
+![](photos/IMG_20170525_004008.jpg)
 
-![](photos/IMG_20170525_004011.jpg){width=1024px}
+![](photos/IMG_20170525_004011.jpg)
 
-![](photos/IMG_20170525_004210.jpg){width=1024px}
+![](photos/IMG_20170525_004210.jpg)
 
-![](photos/IMG_20170525_004252.jpg){width=1024px}
+![](photos/IMG_20170525_004252.jpg)
 
-![](photos/IMG_20170525_174805.jpg){width=1024px}
+![](photos/IMG_20170525_174805.jpg)
 
-![](photos/IMG_20170525_175308.jpg){width=1024px}
+![](photos/IMG_20170525_175308.jpg)
 
-![](photos/IMG_20170525_175751.jpg){width=1024px}
+![](photos/IMG_20170525_175751.jpg)
 
-![](photos/IMG_20170525_183759.jpg){width=1024px}
+![](photos/IMG_20170525_183759.jpg)
 
-![](photos/IMG_20170525_183935.jpg){width=1024px}
+![](photos/IMG_20170525_183935.jpg)
 
-![](photos/IMG_20170525_185151.jpg){width=1024px}
+![](photos/IMG_20170525_185151.jpg)
 
-![](photos/IMG_20170525_185159.jpg){width=1024px}
+![](photos/IMG_20170525_185159.jpg)
 
-![](photos/IMG_20170525_190605.jpg){width=1024px}
+![](photos/IMG_20170525_190605.jpg)
 
-![](photos/IMG_20170525_190610.jpg){width=1024px}
+![](photos/IMG_20170525_190610.jpg)
 
 # Final assembly
 
-![](photos/IMG_20170525_190645.jpg){width=1024px}
+![](photos/IMG_20170525_190645.jpg)
 
-![](photos/IMG_20170525_190752.jpg){width=1024px}
+![](photos/IMG_20170525_190752.jpg)
 
-![](photos/IMG_20170525_191646.jpg){width=1024px}
+![](photos/IMG_20170525_191646.jpg)
 
-![](photos/IMG_20170525_191726.jpg){width=1024px}
+![](photos/IMG_20170525_191726.jpg)
 
-![](photos/IMG_20170525_191810.jpg){width=1024px}
+![](photos/IMG_20170525_191810.jpg)
 
