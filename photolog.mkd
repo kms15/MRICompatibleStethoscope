@@ -1,3 +1,22 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
+- [Initial sketch](#initial-sketch)
+- [Making the ear tubes](#making-the-ear-tubes)
+  - [Making the barb for the ear piece.](#making-the-barb-for-the-ear-piece)
+  - [Adding the curve](#adding-the-curve)
+- [Making the stethoscope head](#making-the-stethoscope-head)
+  - [Machining the front of the stethoscope head](#machining-the-front-of-the-stethoscope-head)
+  - [Machining the back of the stethoscope head](#machining-the-back-of-the-stethoscope-head)
+  - [Drilling the holes for the barbs for the tubing](#drilling-the-holes-for-the-barbs-for-the-tubing)
+  - [Making the hose barbs for the stethoscope head](#making-the-hose-barbs-for-the-stethoscope-head)
+- [Making the spring for the ear tubes](#making-the-spring-for-the-ear-tubes)
+- [Making bands to hold the tubes together](#making-bands-to-hold-the-tubes-together)
+- [Final assembly](#final-assembly)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Initial sketch
 
 ![](photos/IMG_20170525_213724.jpg)
