@@ -1,6 +1,26 @@
 # MRI compatible stethoscope
 
+![](photos/IMG_20170525_191646.jpg)
+
 This will a bit of documentation on a MRI compatible stethoscope I've built.
 It requires some machining to build, and thus I suspect it will be more useful
 as an example for other hobbyists learning machining than for people who are
 looking for an easy way to get an MRI compatible stethoscope.
+
+# Design
+
+Here is the quick sketch on a 3x5" card that I used when making the
+stethoscope:
+
+![](photos/IMG_20170525_213724.jpg)
+
+I hope to redraw this in FreeCAD and add the cleaned up mechanical
+drawings to this repository.
+
+Photos of the various steps in constructing the stethoscope can be found
+in [photolog.md](photolog.md).
+
+# License
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0
+International License](http://creativecommons.org/licenses/by-sa/4.0/).
