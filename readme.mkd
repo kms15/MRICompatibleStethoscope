@@ -1,0 +1,6 @@
+# MRI compatible stethoscope
+
+This will a bit of documentation on a MRI compatible stethoscope I've built.
+It requires some machining to build, and thus I suspect it will be more useful
+as an example for other hobbyists learning machining than for people who are
+looking for an easy way to get an MRI compatible stethoscope.
