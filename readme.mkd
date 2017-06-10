@@ -2,25 +2,19 @@
 
 ![](photos/IMG_20170525_191646.jpg)
 
-This will a bit of documentation on a MRI compatible stethoscope I've built.
-It requires some machining to build, and thus I suspect it will be more useful
-as an example for other hobbyists learning machining than for people who are
-looking for an easy way to get an MRI compatible stethoscope.
+This is a bit of documentation on a MRI compatible stethoscope I built in
+spring of 2017.  It requires some machining to build, and thus I suspect it
+will be more useful as an example for other hobbyists learning machining than
+for people who are looking for an easy way to get an MRI compatible
+stethoscope.
 
 It turns out it's easy to make a stethoscope MRI compatible - just avoid using
 metals other than a few safe ones such as aluminum, titanium, etc..  Thus this
 really comes down to just making a stethoscope, but to replace a good clinical
-stethoscope it needs to be a stethoscope of comparable quality.
+stethoscope it needs to have good acoustics. Thus careful attention is paid to
+minimizing deadspace and impedence mismatches in the stethoscope. 
 
-# Design
-
-Here is the quick sketch on a 3x5" card that I used when making the
-stethoscope:
-
-![](photos/IMG_20170525_213724.jpg)
-
-I hope to redraw this in FreeCAD and add the cleaned up mechanical
-drawings to this repository.
+# Construction
 
 Photos of the various steps in constructing the stethoscope can be found
 in [photolog.md](photolog.mkd).
