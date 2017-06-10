@@ -371,111 +371,170 @@ the front of the scope is also visible through the hole.
 
 ![](photos/IMG_20170524_193351.jpg)
 
+Hexagonal bar stock is used for the barbs (providing a flat surface for a
+wrench to engage with in the final part).  Round stock could also have been
+used and flats machined on at the end.  The first operation is a facing
+operation to give flat surface for the end of the barb.
+
 ![](photos/IMG_20170524_194505.jpg)
+
+Next the distal part is turned down to provide a round surface of the
+appropriate diameter for the M6 tap.
 
 ![](photos/IMG_20170524_194657.jpg)
 
+The edge is chamfered to make it easier to thread the die for cutting the
+threads.
+
 ![](photos/IMG_20170524_195619.jpg)
+
+A die is then used to cut the threads, first in the normal direction up
+to the shoulder of the part. Note that the threads will still only be
+partially cut up to the shoulder, as the first few threads in the die only
+cut part of full thickness of the thread.  To fix this, we cut the threads
+with the die a second time, but now with the die reversed so that the last
+thread in the die is now the leading thread and cuts to full thickness
+(acting in a manner similar to a bottoming tap).
 
 ![](photos/IMG_20170524_200207.jpg)
 
+The resulting threads are a bit rough, but serviceable.
+
 ![](photos/IMG_20170524_200736.jpg)
+
+To make it easier to thread the bard into the head of the stethoscope, the new
+threads at the end are cut to a slight taper.  
 
 ![](photos/IMG_20170524_201815.jpg)
 
+The barb for the hose itself is then turned.
+
 ![](photos/IMG_20170524_202908.jpg)
 
-![](photos/IMG_20170524_203045.jpg)
+The hole for the central lumen is then started with a center drill for
+precision.
 
 ![](photos/IMG_20170524_203235.jpg)
 
+A jobber drill bit is then used to drill the hole to depth.
+
 ![](photos/IMG_20170524_203714.jpg)
 
-![](photos/IMG_20170524_203837.jpg)
+Here is the resulting hole.
 
 ![](photos/IMG_20170524_204116.jpg)
 
+The tip of the tube is now turned with a taper, slowly increasing depth until
+the tool cuts through the wall of the tubing and the part drops to the bed of
+the lathe.
+
 ![](photos/IMG_20170524_204213.jpg)
+
+Here is the resulting part, before deburring.  
 
 ![](photos/IMG_20170524_213434.jpg)
 
-![](photos/IMG_20170524_214224.jpg)
+A second barb is then machined using the same steps detailed above.
 
 ![](photos/IMG_20170524_214244.jpg)
 
+PTFE thread sealing tape is then applied, both to improve the seal and decrease
+the risk of galling (which is significant with aluminum-on-aluminum threads).
+
 ![](photos/IMG_20170524_214434.jpg)
+
+A wrench is then used to screw the hose barbs into the head of the stethoscope.
 
 ## Making the spring for the ear tubes
 
 ![](photos/IMG_20170524_221200.jpg)
 
-![](photos/IMG_20170524_222353.jpg)
-
-![](photos/IMG_20170524_222548.jpg)
-
-![](photos/IMG_20170524_223334.jpg)
+A strip of sheet metal is cut to the appropriate width using a sheet metal
+shear.
 
 ![](photos/IMG_20170524_224805.jpg)
 
+Layout fluid is applied and calipers used to scratch the layout on to the
+strip.
+
 ![](photos/IMG_20170524_224914.jpg)
+
+The shear is used again to cut the strip to length.
 
 ![](photos/IMG_20170524_225122.jpg)
 
+A band saw is then used to cut out the concave parts of the pattern.
+
 ![](photos/IMG_20170524_225641.jpg)
+
+As usual, the band saw makes quick work of this, limited only by my dexterity
+(and the need to keep fingers well away from the blade).
 
 ![](photos/IMG_20170524_230444.jpg)
 
-![](photos/IMG_20170524_230610.jpg)
+A belt sander is then used to smooth and de-burr the edges.
 
 ![](photos/IMG_20170524_230619.jpg)
 
-![](photos/IMG_20170524_231533.jpg)
+The slip-roll is used to apply a curve to the part.
 
 ![](photos/IMG_20170524_231736.jpg)
 
+The layout fluid is removed with alcohol swabs.
+
 ![](photos/IMG_20170524_232739.jpg)
 
-![](photos/IMG_20170524_232752.jpg)
+Metal forming pliers are then used to bend the tabs into a cylinder that will
+hold the tubes.
 
 ## Making bands to hold the tubes together
 
-![](photos/IMG_20170525_003930.jpg)
-
 ![](photos/IMG_20170525_004001.jpg)
 
-![](photos/IMG_20170525_004008.jpg)
-
-![](photos/IMG_20170525_004011.jpg)
-
-![](photos/IMG_20170525_004210.jpg)
+Layout fluid is applied to the left over bit of strip that was cut earlier, and
+calipers are again used to scribe the layout into the strip.
 
 ![](photos/IMG_20170525_004252.jpg)
 
+Three cuts with the sheet metal shear give us the three small strips of metal
+that were scribed.  
+
 ![](photos/IMG_20170525_174805.jpg)
+
+The belt sander is again used to de-burr the edges and round corners.
 
 ![](photos/IMG_20170525_175308.jpg)
 
+Status post belt-sander.
+
 ![](photos/IMG_20170525_175751.jpg)
 
-![](photos/IMG_20170525_183759.jpg)
-
-![](photos/IMG_20170525_183935.jpg)
+Alcohol is used to remove the layout fluid.
 
 ![](photos/IMG_20170525_185151.jpg)
 
-![](photos/IMG_20170525_185159.jpg)
+Metal forming pliers are used to form the strips into loops of the appropriate
+shape.
 
 ## Final assembly
 
 ![](photos/IMG_20170525_190610.jpg)
 
+The silicone tubing is twisted through the ear tube spring, then the ear tubes
+are twisted into the tubing and through the spring.  The bands are then
+advanced on from the other side of the tubing. A small amount of water applied
+to the tubing is used to provide lubrication.
+
 ![](photos/IMG_20170525_190645.jpg)
+
+A razor blade is used to cut the ends of the tubing to be square and even with
+each other.
 
 ![](photos/IMG_20170525_190752.jpg)
 
+The results are not perfect, but definitely an improvement.
+
 ![](photos/IMG_20170525_191646.jpg)
 
-![](photos/IMG_20170525_191726.jpg)
-
-![](photos/IMG_20170525_191810.jpg)
-
+The ends of the tubing are now twisted onto the barbs on the end of the
+stethoscope, completing the assembly of the stethoscope.
