@@ -18,20 +18,24 @@ def square_plug(workplane, brim_thickness, brim_width,
 
 def square_dish(workplane, brim_thickness, brim_width,
                 outer_width, outer_length,
-                inner_width, inner_length, depth, floor_interference):
+                inner_width, inner_length, depth, floor_interference,
+                side_clearence):
     body = square_plug(workplane, brim_thickness, brim_width,
                        outer_width, outer_length,
                        inner_width, inner_length, depth)
     cutout = body.faces("<Z") \
         .workplane(brim_thickness + floor_interference, True) \
-        .rect(inner_width, inner_length) \
+        .rect(inner_width + side_clearence, inner_length + side_clearence) \
         .workplane(offset=depth) \
-        .rect(outer_width, outer_length).loft(combine=False)
+        .rect(outer_width + side_clearence,
+              outer_length + side_clearence) \
+        .loft(combine=False)
     return body.cut(cutout)
 
 
 inner_width = 20
 inner_length = 40
+
 
 def mold_dish(workplane, thickness):
     depth = 20
@@ -44,8 +48,9 @@ def mold_dish(workplane, thickness):
                        inner_width=inner_width,
                        inner_length=inner_length,
                        depth=depth,
-                       floor_interference=0.5
-                       ).edges().fillet(1)
+                       floor_interference=0.5,
+                       side_clearence=0.5
+                       ).edges().fillet(2)
     return dish.faces(">Z").workplane() \
         .rect(inner_width + depth + padding,
               inner_length + depth + padding, forConstruction=True) \
@@ -76,9 +81,8 @@ show(bottom)
 
 
 def make_cone(pnt):
-            (xp, yp, zp) = pnt.toTuple()
-
-            return cq.Solid.makeCone(big_radius, 0, 30, cq.Vector(xp, yp, zp))
+    (xp, yp, zp) = pnt.toTuple()
+    return cq.Solid.makeCone(big_radius, 0, 30, cq.Vector(xp, yp, zp))
 
 middle_dish = mold_dish(cq.Workplane("XY", origin=(part_x_spacing, 0, 0)), 10)
 middle_dish_bottom = middle_dish.faces("<Z").workplane(invert=True)
@@ -94,8 +98,3 @@ top = top_dish_floor.pushPoints(earbud_centers).hole(2*post_radius) \
     .rect(inner_width, 2*(center_offset - big_radius)) \
     .cutThruAll()
 show(top)
-
-# result = mold_dish(
-#     cq.Workplane("XY", origin=(part_x_spacing, part_y_spacing, 0)),
-#     5)
-# show(result)
